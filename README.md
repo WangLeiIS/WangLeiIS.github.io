@@ -1,1 +1,2 @@
-# WangLeiIS.github.io
+# 王雷的博客——IdeaStation
+## 路曼曼其脩遠兮，吾將上下而求索
