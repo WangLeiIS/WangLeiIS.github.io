@@ -1,15 +1,4 @@
-<<<<<<< HEAD
 auto: true
-=======
-# Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://wangleiis.github.io/thinkspace # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
->>>>>>> 3af57015c28c8d1d626a516e45e60564fd3f4f29
 
 #markdown: rdiscount
 highlighter: 
@@ -17,6 +6,6 @@ highlighter:
 permalink: 
 
 title: triBlue
-url: 
+url: https://github.com/WangLeiIS/WangLeiIS.github.io
 feed: 
 author_info: 
